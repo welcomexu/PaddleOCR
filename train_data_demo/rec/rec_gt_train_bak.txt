@@ -1,0 +1,12 @@
+train_data/rec/train/Snipaste_2024-12-06_15-06-56.png    膀胱精囊角存在，膀胱未见异常。
+train_data/rec/train/Snipaste_2024-12-06_15-10-12.png    常，未见异常信号。胸段脊髓形态、大小正常，未见受压移位，髓内无异常信号。胸段椎管内未
+train_data/rec/train/Snipaste_2024-12-06_15-12-38.png    未见异常。扫描野内肝脏、胰腺、脾、胆囊均未见明显异常信号，腹膜后未见明显增大淋巴结。
+train_data/rec/train/Snipaste_2024-12-06_15-13-24.png    清晰。余肾实质未见明显异常信号，肾盂肾盏未见扩张。肾静脉显示良好。肾周脂肪囊显示清晰，信号
+train_data/rec/train/Snipaste_2024-12-06_15-14-02.png    2、右肾一小囊肿。
+train_data/rec/train/Snipaste_2024-12-06_15-15-03.png    胆囊和胆囊管扩张；胆总管下段出口部见类圆形充盈缺损，长径1.5cm，MR信号特征为T1WI稍高信
+train_data/rec/train/Snipaste_2024-12-06_15-16-17.png    2、肝VII段囊肿。
+train_data/rec/train/Snipaste_2024-12-06_15-16-54.png    内未见异常信号改变，胆总管未见扩张。脾脏不大，脾质信号均匀。胰腺轮廓清楚，大小、形态及信号
+train_data/rec/train/Snipaste_2024-12-06_15-17-56.png    受压略向后移。胆囊外形明显小，胆囊壁稍厚，胆总管未见扩张。脾脏外形稍大，脾质信号均匀。胰腺
+train_data/rec/train/Snipaste_2024-12-06_15-18-55.png    缘光整。肝实质内见多个囊状小病灶，呈T1WI低信号，T2WI高信号，病灶边界清楚
+train_data/rec/train/Snipaste_2024-12-06_15-19-29.png    1、肝右叶肝癌切除术后改变。
+train_data/rec/train/Snipaste_2024-12-06_15-20-16.png    胆囊壁不厚，胆囊内无异常信号。胆总管未见扩张。
